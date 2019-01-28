@@ -1,0 +1,11 @@
+{
+  "_synthetic": true,
+  "generator": "gh-city-fixtures",
+  "repo": "gitcity-fixture-a/corpus-corpus.py",
+  "language": "Python",
+  "topics": [
+    "nlp",
+    "evaluation",
+    "diffusion"
+  ]
+}
