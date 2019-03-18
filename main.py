@@ -1,6 +1,11 @@
 // corpus-corpus.py — synthetic fixture
-// bump off-by-one
-// e920f8994326
+// inline docs
+// b8b39a7be23f
+
+
+
+
+
 
 
 
