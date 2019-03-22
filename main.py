@@ -1,14 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// inline docs
-// b8b39a7be23f
-
-
-
-
-
-
-
-
-
+// refactor off-by-one
+// cd5f7cea4a24
 
 
