@@ -1,14 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// cache docs
-// 713046177d8f
-
-
-
-
-
-
-
-
+// handle latent flaky test
+// 075af9000213
 
 
 
