@@ -1,6 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// remove edge case
-// 38b40a82ed19
+// inline flaky test
+// f4358a6b4575
 
 
 
