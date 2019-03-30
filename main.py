@@ -1,8 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// handle rlhf typing
-// 8bf538e14f89
-
-
+// inline lora typing
+// 9a25260a06ec
 
 
 
