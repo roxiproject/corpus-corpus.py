@@ -1,23 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// wip cleanup
-// 2b9581f6cb3d
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// cache edge case
+// d1c3b6fba6f7
 
 
 
