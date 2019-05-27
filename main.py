@@ -1,10 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// inline cleanup
-// 0c0000e9e1b6
-
-
-
-
-
+// handle eval cleanup
+// e50ac2a33998
 
 
