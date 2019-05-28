@@ -1,6 +1,8 @@
 // corpus-corpus.py — synthetic fixture
-// guard corpus docs
-// 06d3dca7368d
+// wip probe cleanup
+// ec5391dd43a7
+
+
 
 
 
