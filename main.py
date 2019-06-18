@@ -1,6 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// fix CI
-// 91f00d53099b
+// fix distill off-by-one
+// 79957f2170d6
 
 
 
