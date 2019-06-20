@@ -1,11 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// wip latent flaky test
-// 8b02d0282880
-
-
-
-
-
-
+// handle embed edge case
+// 2e2de410250b
 
 
