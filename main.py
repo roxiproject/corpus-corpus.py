@@ -1,5 +1,22 @@
 // corpus-corpus.py — synthetic fixture
-// add cleanup
-// d9a07e76cf9d
+// inline perf
+// bd582b2a38a8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
