@@ -1,18 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// fix latent edge case
-// 61168b02c903
-
-
-
-
-
-
-
-
-
-
-
-
+// add regression
+// 96c471bc0baf
 
 
 
