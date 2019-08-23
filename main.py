@@ -1,15 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// add regression
-// 96c471bc0baf
-
-
-
-
-
-
-
-
-
+// handle corpus cleanup
+// f470a4d0b98e
 
 
 
