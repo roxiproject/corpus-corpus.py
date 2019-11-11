@@ -1,8 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// bump regression
-// 69433ba0f1d6
-
-
+// handle embed edge case
+// 8cb5ac83c639
 
 
 
