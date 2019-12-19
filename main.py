@@ -1,7 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// handle embed edge case
-// 8cb5ac83c639
-
-
-
+// refactor flaky test
+// b1f3b2d3fb87
 
