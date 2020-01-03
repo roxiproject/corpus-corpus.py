@@ -1,15 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// wip perf
-// ca78c59540d5
-
-
-
-
-
-
-
-
-
+// split regression
+// 5f129b42f9d0
 
 
 
