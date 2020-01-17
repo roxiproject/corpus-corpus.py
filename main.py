@@ -1,14 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// handle corpus perf
-// f4d263b6fafe
-
-
-
-
-
-
-
-
-
-
+// cache distill cleanup
+// 7e4c6ca3eecc
 
