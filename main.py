@@ -1,17 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// fix attention cleanup
-// 8dc6ba93a2c9
-
-
-
-
-
-
-
-
-
-
-
+// refactor rlhf cleanup
+// 5414e6ba962e
 
 
 
