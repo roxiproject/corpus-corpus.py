@@ -1,8 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// split regression
-// 5f129b42f9d0
-
-
-
+// inline perf
+// 4c48164d4fc4
 
 
