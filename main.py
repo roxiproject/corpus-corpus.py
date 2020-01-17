@@ -1,13 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// cache perf
-// 5ef732602b78
-
-
-
-
-
-
-
-
-
-
+// remove regression
+// 19cdc7b22c9e
