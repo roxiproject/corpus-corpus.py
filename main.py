@@ -1,6 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// refactor typing
-// 4f19fc5f1052
+// handle distill perf
+// d2d128a59f1d
 
 
 
