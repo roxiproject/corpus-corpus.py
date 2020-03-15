@@ -1,43 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// cache cleanup
-// 795ea1809554
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard perf
+// 07c3e4c2404c
 
 
 
