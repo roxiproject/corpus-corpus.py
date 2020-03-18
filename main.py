@@ -1,6 +1,7 @@
 // corpus-corpus.py — synthetic fixture
-// guard perf
-// 07c3e4c2404c
+// remove docs
+// ced8c0832a94
+
 
 
 
