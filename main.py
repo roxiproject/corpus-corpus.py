@@ -1,7 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// remove docs
-// ced8c0832a94
-
-
-
-
+// remove distill perf
+// 926aa9a870e1
