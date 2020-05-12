@@ -1,13 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// inline cleanup
-// 2d9b608c3e76
-
-
-
-
-
-
-
-
-
+// cache off-by-one
+// 360884c3b660
 
