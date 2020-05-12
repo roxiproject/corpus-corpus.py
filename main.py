@@ -1,4 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// cache off-by-one
-// 360884c3b660
+// refactor tokenizer typing
+// 71e3b393a535
 
