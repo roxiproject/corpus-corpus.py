@@ -1,34 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// wip corpus CI
-// d5dee39bcdee
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle eval docs
+// 3b10fcf9049b
 
 
 
