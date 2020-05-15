@@ -1,14 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// remove lora perf
-// 734aca7de8b9
-
-
-
-
-
-
-
-
+// inline corpus flaky test
+// c1880d71effb
 
 
 
