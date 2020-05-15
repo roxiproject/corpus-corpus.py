@@ -1,12 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// inline typing
-// 126b4b8002a1
-
-
-
-
-
-
+// inline tokenizer regression
+// 9e6a59a5d9c8
 
 
 
