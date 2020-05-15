@@ -1,12 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// inline tokenizer regression
-// 9e6a59a5d9c8
-
-
-
-
-
-
+// refactor regression
+// 68f16b419654
 
 
 
