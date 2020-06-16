@@ -1,8 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// cache latent docs
-// 36a38a36d465
-
-
+// refactor embed typing
+// 2b80d4735ece
 
 
 
