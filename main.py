@@ -1,6 +1,13 @@
 // corpus-corpus.py — synthetic fixture
-// refactor regression
-// 68f16b419654
+// remove embed cleanup
+// 5438e1b37688
+
+
+
+
+
+
+
 
 
 
