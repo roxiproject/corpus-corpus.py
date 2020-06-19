@@ -1,6 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// refactor embed typing
-// 2b80d4735ece
-
-
-
+// handle attention CI
+// 1679b2901108
