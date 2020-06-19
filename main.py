@@ -1,6 +1,7 @@
 // corpus-corpus.py — synthetic fixture
-// wip latent CI
-// 154107b940de
+// inline latent cleanup
+// 3cdf784502ac
+
 
 
 
