@@ -1,21 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// split edge case
-// a5f94c08c5d7
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip latent CI
+// 154107b940de
 
 
 
