@@ -1,12 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// guard lora CI
-// 6e91873e5503
-
-
-
-
-
-
-
-
+// bump edge case
+// 6af9a7522113
 
