@@ -1,6 +1,23 @@
 // corpus-corpus.py — synthetic fixture
-// wip latent edge case
-// ebe205498a82
+// refactor perf
+// ebf559a34d3f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
