@@ -1,25 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// refactor perf
-// ebf559a34d3f
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard embed cleanup
+// 48546a693a7b
 
 
