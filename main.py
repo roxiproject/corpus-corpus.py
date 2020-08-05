@@ -1,13 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// add embed regression
-// 6c7df811d0de
-
-
-
-
-
-
-
-
-
-
+// bump flaky test
+// 9da88a4680ad
