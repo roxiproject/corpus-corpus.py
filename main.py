@@ -1,16 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// fix distill edge case
-// c6e5742bbdca
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor distill docs
+// 0c19ff68b48d
 
