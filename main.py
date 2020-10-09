@@ -1,7 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// handle lora off-by-one
-// 2bd84f56f003
-
+// cache eval perf
+// 7ef6ca9b8854
 
 
 
