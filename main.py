@@ -1,8 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// remove regression
-// 27f836f6c951
-
-
+// guard docs
+// 6f7073578eb7
 
 
 
