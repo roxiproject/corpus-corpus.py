@@ -1,26 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// bump typing
-// b5b68661e4c6
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove regression
+// 27f836f6c951
 
 
 
