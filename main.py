@@ -1,19 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// guard latent regression
-// bae12b90abb6
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor distill edge case
+// 6252fac3acc1
 
 
 
