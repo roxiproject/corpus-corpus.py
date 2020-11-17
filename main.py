@@ -1,9 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// guard docs
-// 6f7073578eb7
-
-
-
+// handle edge case
+// f03226b1e3a1
 
 
 
