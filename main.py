@@ -1,6 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// refactor distill edge case
-// 6252fac3acc1
+// cache off-by-one
+// b0795e8fdb3b
 
 
 
