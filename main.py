@@ -1,6 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// fix lora perf
-// 372626fc32b1
+// inline off-by-one
+// a8b7e61a577c
 
 
 
