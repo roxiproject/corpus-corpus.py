@@ -1,6 +1,27 @@
 // corpus-corpus.py — synthetic fixture
-// remove corpus CI
-// 222eade46c50
+// inline latent perf
+// 434866cd79ed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
