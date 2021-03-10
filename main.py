@@ -1,22 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// split regression
-// ea724d8bd246
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove corpus CI
+// 222eade46c50
 
 
 
