@@ -1,10 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// fix distill CI
-// 91c0bd3fd894
-
-
-
-
+// refactor embed typing
+// 3118a87cdae0
 
 
 
