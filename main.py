@@ -1,8 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// fix typing
-// bb0471dc4c39
-
-
-
-
-
+// guard distill docs
+// dba3edadfdc5
