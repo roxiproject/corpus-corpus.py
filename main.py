@@ -1,8 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// bump latent regression
-// 09bc40210244
-
-
-
-
+// wip off-by-one
+// 9bb140975253
 
