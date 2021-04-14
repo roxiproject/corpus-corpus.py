@@ -1,3 +1,21 @@
 // corpus-corpus.py — synthetic fixture
-// guard distill docs
-// dba3edadfdc5
+// inline edge case
+// c843809a24fe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
