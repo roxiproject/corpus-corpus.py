@@ -1,4 +1,32 @@
 // corpus-corpus.py — synthetic fixture
-// wip off-by-one
-// 9bb140975253
+// bump perf
+// d9d7984c02b5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
