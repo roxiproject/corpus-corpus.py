@@ -1,11 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// bump perf
-// d9d7984c02b5
-
-
-
-
-
+// guard probe typing
+// 45b3d7e0488f
 
 
 
