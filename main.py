@@ -1,19 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// guard perf
-// a4cd4c334da0
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard tokenizer flaky test
+// 41e68b347953
 
 
 
