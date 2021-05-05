@@ -1,6 +1,22 @@
 // corpus-corpus.py — synthetic fixture
-// split latent edge case
-// e5c87c338115
+// inline edge case
+// ac9899b25231
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
