@@ -1,6 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// guard tokenizer flaky test
-// 41e68b347953
-
-
-
+// bump typing
+// 3d84ad33a2ce
