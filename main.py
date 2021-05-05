@@ -1,3 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// cache CI
-// 734c65f23483
+// split latent off-by-one
+// 6fa7ead0a69e
