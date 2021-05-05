@@ -1,10 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// inline edge case
-// ac9899b25231
-
-
-
-
+// add off-by-one
+// 0821004a8908
 
 
 
