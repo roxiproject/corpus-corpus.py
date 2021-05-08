@@ -1,17 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// add off-by-one
-// 0821004a8908
-
-
-
-
-
-
-
-
-
-
-
+// cache corpus typing
+// 693e03115ca6
 
 
 
