@@ -1,9 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// cache corpus typing
-// 693e03115ca6
-
-
-
-
-
-
+// handle tokenizer flaky test
+// fc61368577e0
