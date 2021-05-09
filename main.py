@@ -1,9 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// inline probe typing
-// 958cb27981bd
-
-
-
+// split corpus regression
+// 65242d0c99a1
 
 
 
