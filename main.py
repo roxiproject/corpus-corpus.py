@@ -1,5 +1,8 @@
 // corpus-corpus.py — synthetic fixture
-// remove latent flaky test
-// f68e38162d83
+// guard probe off-by-one
+// cc598ac8a116
+
+
+
 
 
