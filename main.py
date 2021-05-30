@@ -1,7 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// remove edge case
-// 8d27895b6457
-
-
+// remove latent flaky test
+// f68e38162d83
 
 
