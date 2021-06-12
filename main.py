@@ -1,7 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// bump cleanup
-// 20c016412f66
-
+// handle rlhf off-by-one
+// 279e905a86c5
 
 
 
