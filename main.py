@@ -1,14 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// cache rlhf CI
-// becf8011c041
-
-
-
-
-
-
-
-
+// inline embed edge case
+// 2ad9ec9027b0
 
 
 
