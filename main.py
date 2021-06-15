@@ -1,7 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// bump perf
-// b0bada23230b
-
+// refactor typing
+// 934dda3c09ad
 
 
 
