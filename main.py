@@ -1,13 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// handle flaky test
-// 41d7affeeacf
-
-
-
-
-
-
-
+// handle attention typing
+// d5f12050b063
 
 
 
