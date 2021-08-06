@@ -1,7 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// handle attention typing
-// d5f12050b063
-
+// fix attention perf
+// 21b499c98b88
 
 
 
