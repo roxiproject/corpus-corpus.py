@@ -1,7 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// guard corpus edge case
-// 4efe44048e85
-
+// inline CI
+// 908f0dc97e14
 
 
 
