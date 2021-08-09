@@ -1,13 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// cache off-by-one
-// b1391e1f4343
-
-
-
-
-
-
-
+// bump off-by-one
+// fd01ef9c5a30
 
 
 
