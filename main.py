@@ -1,6 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// guard rlhf cleanup
-// 9ce9cb97dbc0
+// wip attention regression
+// 6a632e5083e2
 
 
 
