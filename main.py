@@ -1,6 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// fix attention perf
-// 21b499c98b88
+// bump cleanup
+// aac200136e45
 
 
 
