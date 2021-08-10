@@ -1,17 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// handle CI
-// ee599aed9bd0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// add corpus typing
+// 8340dbfca856
