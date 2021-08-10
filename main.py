@@ -1,3 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// add corpus typing
-// 8340dbfca856
+// add latent docs
+// c5b719b467e3
