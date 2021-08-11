@@ -1,6 +1,7 @@
 // corpus-corpus.py — synthetic fixture
-// bump distill perf
-// 3833950c7c80
+// cache off-by-one
+// d63f06fab87f
+
 
 
 
