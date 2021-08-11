@@ -1,7 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// cache off-by-one
-// d63f06fab87f
-
-
-
-
+// split cleanup
+// 7b267d4a397c
