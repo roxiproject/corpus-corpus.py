@@ -1,19 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// inline embed docs
-// 0cdb28278af2
-
-
-
-
-
-
-
-
-
-
-
-
-
+// cache lora regression
+// 971a437b487b
 
 
 
