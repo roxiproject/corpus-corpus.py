@@ -1,22 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// add off-by-one
-// 127a1973e328
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard latent flaky test
+// 0ad266e912ca
 
 
 
