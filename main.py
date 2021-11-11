@@ -1,30 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// cache tokenizer flaky test
-// 085d4f44bd45
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor off-by-one
+// a6c768bd8870
 
 
 
