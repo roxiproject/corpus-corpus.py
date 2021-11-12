@@ -1,35 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// wip attention edge case
-// f46de70f7bb3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip docs
+// 8755e3a7445b
 
 
 
