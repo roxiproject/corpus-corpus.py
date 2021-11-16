@@ -1,17 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// add latent cleanup
-// 8d744ffd12ae
-
-
-
-
-
-
-
-
-
-
-
+// wip embed docs
+// cbbc2472c1a1
 
 
 
