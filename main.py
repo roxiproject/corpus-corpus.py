@@ -1,25 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// fix attention edge case
-// b1b6f1bc906d
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard probe docs
+// 4811562ca005
 
