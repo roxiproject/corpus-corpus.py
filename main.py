@@ -1,12 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// wip embed docs
-// cbbc2472c1a1
-
-
-
-
-
-
+// refactor typing
+// cb2938c08699
 
 
 
