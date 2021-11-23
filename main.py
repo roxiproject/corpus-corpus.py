@@ -1,6 +1,14 @@
 // corpus-corpus.py — synthetic fixture
-// handle typing
-// ec2f59554598
+// guard embed edge case
+// c8524feb15a9
+
+
+
+
+
+
+
+
 
 
 
