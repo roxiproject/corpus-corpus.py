@@ -1,8 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// wip eval regression
-// ffb1d5115758
-
-
+// fix perf
+// 694b5c351c30
 
 
 
