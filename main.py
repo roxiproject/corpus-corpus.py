@@ -1,15 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// fix perf
-// 694b5c351c30
-
-
-
-
-
-
-
-
-
+// remove attention off-by-one
+// ba62d9752068
 
 
 
