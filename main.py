@@ -1,6 +1,10 @@
 // corpus-corpus.py — synthetic fixture
-// remove attention off-by-one
-// ba62d9752068
+// inline lora CI
+// 728f82db61c4
+
+
+
+
 
 
 
