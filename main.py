@@ -1,15 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// handle lora cleanup
-// 8832d7bcb924
-
-
-
-
-
-
-
-
-
+// inline corpus docs
+// 42d1ed43d260
 
 
 
