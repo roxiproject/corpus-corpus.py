@@ -1,8 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// handle docs
-// 60eaf952356d
-
-
+// inline eval perf
+// 8c932a7f3b8a
 
 
 
