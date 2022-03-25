@@ -1,6 +1,8 @@
 // corpus-corpus.py — synthetic fixture
-// guard embed perf
-// 20c5e0524bd2
+// inline typing
+// 75dc532feff2
+
+
 
 
 
