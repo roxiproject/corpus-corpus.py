@@ -1,6 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// remove flaky test
-// 7e5a45623039
+// guard embed perf
+// 20c5e0524bd2
 
 
 
