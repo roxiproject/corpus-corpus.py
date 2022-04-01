@@ -1,14 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// bump cleanup
-// 51d135afe246
-
-
-
-
-
-
-
-
-
+// handle edge case
+// 2627e74880c7
 
 
