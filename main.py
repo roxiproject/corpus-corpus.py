@@ -1,20 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// cache eval perf
-// ef3bc2a16d76
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard cleanup
+// 2a41cab25a70
 
 
 
