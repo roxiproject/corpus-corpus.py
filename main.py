@@ -1,23 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// cache flaky test
-// 2c9d349c2a76
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor cleanup
+// 5fadb4b1f10f
 
 
