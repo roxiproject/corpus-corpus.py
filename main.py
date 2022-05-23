@@ -1,27 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// refactor typing
-// 9fc229eb0666
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// cache CI
+// 58f331ab8055
 
 
 
