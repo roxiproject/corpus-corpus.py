@@ -1,17 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// inline distill off-by-one
-// a548f3d1a21f
-
-
-
-
-
-
-
-
-
-
-
+// inline cleanup
+// 74e1b9a1df85
 
 
 
