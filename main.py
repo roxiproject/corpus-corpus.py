@@ -1,9 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// inline off-by-one
-// e730110c476c
-
-
-
-
-
-
+// cache off-by-one
+// 027e2aeaa31c
