@@ -1,14 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// cache flaky test
-// da9ee2c9d882
-
-
-
-
-
-
-
-
+// inline off-by-one
+// e730110c476c
 
 
 
