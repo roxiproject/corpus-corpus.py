@@ -1,16 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// bump probe edge case
-// 9ccca2dd4011
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline perf
+// d88ba8ae59e4
