@@ -1,7 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// add probe regression
-// 1c7355f8f9ce
-
+// inline probe perf
+// f6e01e2a29fa
 
 
 
