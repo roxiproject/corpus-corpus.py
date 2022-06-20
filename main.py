@@ -1,9 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// bump CI
-// 8439117bb902
-
-
-
+// guard eval docs
+// 4bf34f0094b2
 
 
 
