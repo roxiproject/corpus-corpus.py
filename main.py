@@ -1,9 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// fix CI
-// 4929999172bd
-
-
-
+// bump latent cleanup
+// 58a97f2fd819
 
 
 
