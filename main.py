@@ -1,25 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// add docs
-// 872080b490c7
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor docs
+// 303a33632534
 
 
 
