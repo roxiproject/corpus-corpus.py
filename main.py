@@ -1,6 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// refactor docs
-// 303a33632534
+// inline regression
+// 19b6e15ab9d4
 
 
 
