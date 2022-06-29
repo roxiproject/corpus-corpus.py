@@ -1,9 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// inline regression
-// 19b6e15ab9d4
-
-
-
+// cache cleanup
+// d0779b1c92a8
 
 
 
