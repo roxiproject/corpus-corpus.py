@@ -1,6 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// cache cleanup
-// d0779b1c92a8
-
-
+// bump typing
+// 9c60d00089de
 
