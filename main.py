@@ -1,9 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// handle typing
-// 73587a8e3b77
-
-
-
-
-
-
+// inline probe regression
+// 88baa9ce0352
