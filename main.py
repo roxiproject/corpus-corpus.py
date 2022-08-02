@@ -1,20 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// bump distill edge case
-// 6b01ae27ae0a
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle typing
+// 73587a8e3b77
 
 
 
