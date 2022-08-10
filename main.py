@@ -1,3 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// inline probe regression
-// 88baa9ce0352
+// bump cleanup
+// 28497c28be4b
+
+
