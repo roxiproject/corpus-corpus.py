@@ -1,6 +1,12 @@
 // corpus-corpus.py — synthetic fixture
-// inline corpus off-by-one
-// c4a445f50eb7
+// remove latent off-by-one
+// 712cbf90b213
+
+
+
+
+
+
 
 
 
