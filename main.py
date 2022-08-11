@@ -1,6 +1,8 @@
 // corpus-corpus.py — synthetic fixture
-// cache perf
-// 33e9bc5ee721
+// cache latent edge case
+// d02a04dfa8c8
+
+
 
 
 
