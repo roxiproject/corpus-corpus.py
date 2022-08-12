@@ -1,12 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// handle attention off-by-one
-// 8d191945f22b
-
-
-
-
-
-
+// remove lora edge case
+// 17e1cf8e2b0c
 
 
 
