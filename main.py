@@ -1,19 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// split CI
-// 55929ba54c84
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle attention off-by-one
+// 8d191945f22b
 
 
 
