@@ -1,12 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// wip regression
-// 278997ee20b7
-
-
-
-
-
-
-
+// remove regression
+// 2ef16f6e654e
 
 
