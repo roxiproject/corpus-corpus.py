@@ -1,7 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// add edge case
-// efd94a471799
-
+// inline probe off-by-one
+// 88e7a1953bcc
 
 
 
