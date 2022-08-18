@@ -1,10 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// handle regression
-// e54cf7a805bb
-
-
-
-
+// inline attention edge case
+// 1e26a53bf6ff
 
 
 
