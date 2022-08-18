@@ -1,26 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// handle attention typing
-// a67982127607
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip edge case
+// cf317c13f157
 
 
