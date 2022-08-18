@@ -1,5 +1,17 @@
 // corpus-corpus.py — synthetic fixture
-// wip edge case
-// cf317c13f157
+// inline perf
+// 067e794c85e2
+
+
+
+
+
+
+
+
+
+
+
+
 
 
