@@ -1,17 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// fix probe edge case
-// 363772127985
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard CI
+// a2b3d82ec4c6
