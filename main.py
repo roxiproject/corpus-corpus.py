@@ -1,25 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// guard distill CI
-// 319ec7b746cc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline docs
+// 9e034cf62a6a
 
 
