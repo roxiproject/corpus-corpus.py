@@ -1,11 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// guard latent CI
-// 9150485eddb6
-
-
-
-
-
+// add off-by-one
+// 2dbb35275e23
 
 
 
