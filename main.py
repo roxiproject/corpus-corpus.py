@@ -1,12 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// bump tokenizer CI
-// 11bd2afb8c59
-
-
-
-
-
-
-
-
+// inline eval cleanup
+// d9de26e8cde2
 
