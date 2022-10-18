@@ -1,14 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// bump docs
-// 6d434906cc36
-
-
-
-
-
-
-
-
-
-
+// guard rlhf docs
+// 41204c2c9142
 
