@@ -1,6 +1,7 @@
 // corpus-corpus.py — synthetic fixture
-// wip edge case
-// d8f2eac51992
+// handle regression
+// fad2f63e6b22
+
 
 
 
