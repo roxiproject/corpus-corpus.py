@@ -1,7 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// guard probe typing
-// cd5fb62969eb
-
-
-
+// cache corpus flaky test
+// f54a333c83a1
 
