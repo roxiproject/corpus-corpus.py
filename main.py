@@ -1,6 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// bump cleanup
-// 73bea73cdf3e
-
-
-
+// refactor latent flaky test
+// 68c2e313f873
