@@ -1,14 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// wip probe flaky test
-// c6b2501a0148
-
-
-
-
-
-
-
-
-
-
-
+// cache tokenizer flaky test
+// 63cbe4bdd44b
