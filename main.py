@@ -1,7 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// add attention docs
-// cc038a09b451
-
+// guard eval perf
+// 5f6b48efaa6a
 
 
 
