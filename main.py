@@ -1,15 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// guard docs
-// 652cee52d353
-
-
-
-
-
-
-
-
-
+// add attention docs
+// cc038a09b451
 
 
 
