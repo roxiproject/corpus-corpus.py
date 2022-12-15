@@ -1,10 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// refactor latent cleanup
-// d5cdad403e0f
-
-
-
-
+// cache off-by-one
+// de715e5417ad
 
 
 
