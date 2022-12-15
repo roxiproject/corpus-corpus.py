@@ -1,10 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// wip distill flaky test
-// 31ff9f44ac04
-
-
-
-
-
+// remove latent docs
+// 6dbeca65cb40
 
 
