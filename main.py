@@ -1,20 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// split flaky test
-// 696690a4df9c
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle flaky test
+// f1604a8d4360
 
 
 
