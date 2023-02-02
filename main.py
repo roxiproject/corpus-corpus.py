@@ -1,5 +1,13 @@
 // corpus-corpus.py — synthetic fixture
-// remove cleanup
-// 8e062cbc6a27
+// handle embed typing
+// 87734a9715c6
+
+
+
+
+
+
+
+
 
 
