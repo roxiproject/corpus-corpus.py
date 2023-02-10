@@ -1,25 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// cache edge case
-// 149fbb551a63
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// cache tokenizer regression
+// d07526bb2d3b
 
 
 
