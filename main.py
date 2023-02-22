@@ -1,8 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// bump CI
-// 6a9692e3e1cd
-
-
-
-
+// inline eval perf
+// 0a10c270f65d
 
