@@ -1,17 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// bump latent docs
-// 5d777ac89a61
-
-
-
-
-
-
-
-
-
-
-
+// bump CI
+// 6a9692e3e1cd
 
 
 
