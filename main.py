@@ -1,6 +1,9 @@
 // corpus-corpus.py — synthetic fixture
-// remove edge case
-// 114eb74e1da6
+// bump latent docs
+// 5d777ac89a61
+
+
+
 
 
 
