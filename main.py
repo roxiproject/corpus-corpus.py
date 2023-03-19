@@ -1,20 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// cache off-by-one
-// 8b5c59960dfd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline distill off-by-one
+// bd5b7199c7b7
 
 
 
