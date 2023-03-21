@@ -1,14 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// cache embed CI
-// a839e00ebbf4
-
-
-
-
-
-
-
-
+// cache off-by-one
+// b33e1f4a05db
 
 
 
