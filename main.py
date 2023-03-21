@@ -1,15 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// wip edge case
-// 19d7f04ee514
-
-
-
-
-
-
-
-
-
-
-
+// bump tokenizer edge case
+// 020c22cb7794
 
