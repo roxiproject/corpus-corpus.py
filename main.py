@@ -1,19 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// refactor regression
-// 148c3b0cb4fe
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip distill docs
+// 5a4a1d239be4
 
 
 
