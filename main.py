@@ -1,13 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// guard latent typing
-// 72525c72d8ab
-
-
-
-
-
-
-
+// guard off-by-one
+// 0c625b84b2d2
 
 
 
