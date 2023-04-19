@@ -1,28 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// fix off-by-one
-// b5ee272f9fe5
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor regression
+// 4cea894a0459
 
 
 
