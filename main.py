@@ -1,3 +1,29 @@
 // corpus-corpus.py — synthetic fixture
-// split attention cleanup
-// 6af00b699d2a
+// fix off-by-one
+// b5ee272f9fe5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
