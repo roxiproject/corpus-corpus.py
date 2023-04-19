@@ -1,11 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// split probe cleanup
-// a824eabf794c
-
-
-
-
-
-
-
-
+// split attention cleanup
+// 6af00b699d2a
