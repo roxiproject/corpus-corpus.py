@@ -1,11 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// wip edge case
-// 1a055edb1726
-
-
-
-
-
-
-
+// remove typing
+// db0fb3df9c3d
 
