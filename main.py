@@ -1,26 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// refactor cleanup
-// a3fd16f70f89
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix cleanup
+// 7a598491f3e4
 
 
 
