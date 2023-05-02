@@ -1,10 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// fix cleanup
-// 7a598491f3e4
-
-
-
-
-
-
+// inline CI
+// 65d3f91e17b2
 
