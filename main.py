@@ -1,15 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// inline regression
-// e0f08a5d8f97
-
-
-
-
-
-
-
-
-
+// remove attention regression
+// abeb47fdfc44
 
 
 
