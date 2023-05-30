@@ -1,21 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// split eval off-by-one
-// 242f04a0ed9e
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline eval off-by-one
+// 10849506ba21
 
 
