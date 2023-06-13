@@ -1,17 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// add attention perf
-// 5a37524d7222
-
-
-
-
-
-
-
-
-
-
-
+// guard embed flaky test
+// fbf87f6cd2be
 
 
 
