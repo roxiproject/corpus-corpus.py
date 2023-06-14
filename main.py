@@ -1,6 +1,8 @@
 // corpus-corpus.py — synthetic fixture
-// guard embed flaky test
-// fbf87f6cd2be
+// inline distill flaky test
+// a2337e9ff498
+
+
 
 
 
