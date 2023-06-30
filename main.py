@@ -1,19 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// cache latent cleanup
-// e14606028eae
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix attention perf
+// 29004092d47b
 
 
 
