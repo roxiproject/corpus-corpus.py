@@ -1,5 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// wip attention typing
-// 2527574dfe75
-
+// add probe off-by-one
+// 6d51fce89993
 
