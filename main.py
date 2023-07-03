@@ -1,3 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// split off-by-one
-// 1134e8333009
+// wip attention typing
+// 2527574dfe75
+
+
