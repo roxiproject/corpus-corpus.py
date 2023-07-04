@@ -1,5 +1,11 @@
 // corpus-corpus.py — synthetic fixture
-// bump regression
-// 08be2af15850
+// inline corpus docs
+// ef4380c41cc1
+
+
+
+
+
+
 
 
