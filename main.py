@@ -1,4 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// add probe off-by-one
-// 6d51fce89993
+// bump regression
+// 08be2af15850
+
 
