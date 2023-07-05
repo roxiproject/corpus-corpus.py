@@ -1,11 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// inline corpus docs
-// ef4380c41cc1
-
-
-
-
-
+// fix regression
+// a56c78a793ac
 
 
 
