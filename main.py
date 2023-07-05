@@ -1,6 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// fix regression
-// a56c78a793ac
-
-
+// remove off-by-one
+// febb900f76c2
 
