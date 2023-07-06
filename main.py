@@ -1,4 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// handle latent perf
-// 0ffec33ea321
-
+// guard docs
+// 3f18786dcfa2
