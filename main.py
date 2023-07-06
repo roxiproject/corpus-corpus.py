@@ -1,4 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// remove off-by-one
-// febb900f76c2
+// handle latent perf
+// 0ffec33ea321
 
