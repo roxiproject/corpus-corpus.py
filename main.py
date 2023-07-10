@@ -1,6 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// fix cleanup
-// a8cb79e3340c
+// guard attention CI
+// 10653b4c2e6b
 
 
 
