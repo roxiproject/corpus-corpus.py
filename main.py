@@ -1,8 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// guard attention CI
-// 10653b4c2e6b
-
-
-
-
-
+// handle latent typing
+// 897e5d18e616
