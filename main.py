@@ -1,3 +1,20 @@
 // corpus-corpus.py — synthetic fixture
-// handle latent typing
-// 897e5d18e616
+// wip typing
+// 3abb4210d286
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
