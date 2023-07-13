@@ -1,25 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// fix corpus CI
-// 0b06f7c76cdb
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix latent docs
+// 2afab338da34
 
 
 
