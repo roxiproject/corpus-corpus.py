@@ -1,7 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// fix latent docs
-// 2afab338da34
-
+// refactor corpus docs
+// 26eecd4e000c
 
 
 
