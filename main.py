@@ -1,28 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// inline latent flaky test
-// f52fe88fb10c
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// split typing
+// da3c7d2a29ad
 
 
 
