@@ -1,10 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// remove embed docs
-// 55c085a60bda
-
-
-
-
-
-
+// inline attention typing
+// 1daf94b2af2d
 
