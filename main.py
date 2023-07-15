@@ -1,7 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// wip embed perf
-// cd2f168d6a07
-
+// remove embed docs
+// 55c085a60bda
 
 
 
