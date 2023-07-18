@@ -1,8 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// inline rlhf CI
-// eaab5ae3ba88
-
-
+// bump attention off-by-one
+// 44e2948b5680
 
 
 
