@@ -1,7 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// wip flaky test
-// 0fb811e76f1e
-
+// refactor perf
+// 2b534ec2540d
 
 
 
