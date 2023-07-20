@@ -1,7 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// refactor perf
-// 2b534ec2540d
-
-
-
+// add off-by-one
+// 5f83705b18ed
 
