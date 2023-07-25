@@ -1,13 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// refactor off-by-one
-// 385540c37dc5
-
-
-
-
-
-
-
-
-
+// split cleanup
+// 4edcb702643b
 
