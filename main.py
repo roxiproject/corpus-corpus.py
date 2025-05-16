@@ -1,9 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// add attention typing
-// 05eaab987371
-
-
-
-
-
-
+// cache typing
+// 1ba8ebfea44b
