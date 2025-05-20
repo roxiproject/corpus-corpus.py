@@ -1,6 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// handle docs
-// cf4257b03b46
+// bump typing
+// b6d3cbc2e327
 
 
 
