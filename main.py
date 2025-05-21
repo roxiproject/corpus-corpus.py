@@ -1,23 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// bump typing
-// b6d3cbc2e327
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// split corpus cleanup
+// 6421e0dada0b
 
 
 
