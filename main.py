@@ -1,6 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// wip corpus flaky test
-// f8dd8e5ef3bd
+// inline flaky test
+// a8e2b79a5203
 
 
 
