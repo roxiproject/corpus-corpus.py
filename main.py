@@ -1,6 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// add perf
-// 95dd9ddaf06a
-
-
-
+// remove typing
+// 1861ba79c69c
