@@ -1,3 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// remove typing
-// 1861ba79c69c
+// split docs
+// 5b0f354c6095
