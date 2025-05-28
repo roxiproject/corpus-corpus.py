@@ -1,6 +1,23 @@
 // corpus-corpus.py — synthetic fixture
-// inline flaky test
-// a8e2b79a5203
+// refactor latent flaky test
+// edc2195e4aea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
