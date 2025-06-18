@@ -1,6 +1,8 @@
 // corpus-corpus.py — synthetic fixture
-// wip tokenizer typing
-// 08d6fbd2cd70
+// cache docs
+// fb200cd1149b
+
+
 
 
 
