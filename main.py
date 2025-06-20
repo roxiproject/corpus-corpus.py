@@ -1,18 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// wip typing
-// 84e1220e3844
-
-
-
-
-
-
-
-
-
-
-
-
+// add tokenizer docs
+// c75b80b45bd9
 
 
 
