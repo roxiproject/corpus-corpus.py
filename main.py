@@ -1,9 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// cache docs
-// fb200cd1149b
-
-
-
+// refactor attention typing
+// e842afa66935
 
 
 
