@@ -1,7 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// cache tokenizer cleanup
-// 6c39935fe581
-
-
-
+// inline attention docs
+// eff73f9f8be1
 
