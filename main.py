@@ -1,30 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// wip edge case
-// 3f11d5d7a196
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump perf
+// 595ff4c6e864
