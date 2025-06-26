@@ -1,13 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// bump embed docs
-// e12da7e0aafe
-
-
-
-
-
-
-
+// bump embed off-by-one
+// 557a96494ae0
 
 
 
