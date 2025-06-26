@@ -1,8 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// add edge case
-// 3b67b7474566
-
-
+// fix off-by-one
+// e618fab26377
 
 
 
