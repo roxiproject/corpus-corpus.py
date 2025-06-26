@@ -1,6 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// fix off-by-one
-// e618fab26377
+// cache lora off-by-one
+// 8d709d2263e6
 
 
 
