@@ -1,4 +1,11 @@
 // corpus-corpus.py — synthetic fixture
-// guard cleanup
-// e71a959eaf17
+// inline probe typing
+// c790ef41a6c1
+
+
+
+
+
+
+
 
