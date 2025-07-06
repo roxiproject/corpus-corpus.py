@@ -1,3 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// split latent cleanup
-// 5a63eb489ee0
+// bump corpus off-by-one
+// 84953540d054
