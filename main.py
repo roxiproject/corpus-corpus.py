@@ -1,8 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// cache corpus perf
-// 2e9fe53776d6
-
-
+// refactor attention CI
+// 413b7decd942
 
 
 
