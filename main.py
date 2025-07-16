@@ -1,9 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// inline eval edge case
-// 88cbdad550b1
-
-
-
-
-
+// wip cleanup
+// 8d703520ae3e
 
