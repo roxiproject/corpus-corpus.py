@@ -1,18 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// inline eval docs
-// fd79278881b7
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard distill typing
+// 69e2e4fc3d5c
 
