@@ -1,23 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// remove flaky test
-// 582efac6c745
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline eval docs
+// fd79278881b7
 
 
 
