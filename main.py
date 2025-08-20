@@ -1,9 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// inline docs
-// b47d9cc94efd
-
-
-
+// guard docs
+// 17166362e3b1
 
 
 
