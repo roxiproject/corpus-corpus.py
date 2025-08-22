@@ -1,6 +1,11 @@
 // corpus-corpus.py — synthetic fixture
-// add perf
-// f9e14dca3649
+// handle embed typing
+// 3860a86e31aa
+
+
+
+
+
 
 
 
