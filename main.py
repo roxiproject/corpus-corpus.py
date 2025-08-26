@@ -1,18 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// remove rlhf typing
-// dfb3615b36e7
-
-
-
-
-
-
-
-
-
-
-
-
+// handle attention typing
+// ab76b4b82a12
 
 
 
