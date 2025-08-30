@@ -1,6 +1,18 @@
 // corpus-corpus.py — synthetic fixture
-// bump corpus typing
-// aaa81aa5c32d
+// inline lora off-by-one
+// b4a5a32ef3d6
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
