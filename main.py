@@ -1,22 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// add embed edge case
-// e571684cccc2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip embed edge case
+// cfc29e89d2db
 
 
 
