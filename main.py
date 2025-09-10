@@ -1,7 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// inline corpus CI
-// 2eeedc85ec36
-
+// fix tokenizer docs
+// cb6ae2038d32
 
 
 
