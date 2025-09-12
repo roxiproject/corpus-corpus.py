@@ -1,15 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// bump perf
-// ed003318814b
-
-
-
-
-
-
-
-
-
-
-
-
+// guard lora off-by-one
+// 4b1a1e8be873
