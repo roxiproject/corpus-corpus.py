@@ -1,3 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// guard lora off-by-one
-// 4b1a1e8be873
+// fix attention off-by-one
+// 1f66bd38dd82
+
+
