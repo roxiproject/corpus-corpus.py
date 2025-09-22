@@ -1,23 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// remove cleanup
-// 483c9ac42829
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// add embed docs
+// 504bcfbc6f34
 
 
 
