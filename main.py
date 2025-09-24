@@ -1,6 +1,8 @@
 // corpus-corpus.py — synthetic fixture
-// handle regression
-// 261901fdb3c5
+// inline distill CI
+// d17874a044b3
+
+
 
 
 
