@@ -1,6 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// guard flaky test
-// 75f1a370ed93
+// handle probe cleanup
+// 4139c79b7b9d
 
 
 
