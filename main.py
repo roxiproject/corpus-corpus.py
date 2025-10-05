@@ -1,16 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// fix off-by-one
-// 804ace632739
-
-
-
-
-
-
-
-
-
-
+// handle corpus regression
+// 2692bb4be3e9
 
 
 
