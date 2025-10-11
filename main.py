@@ -1,17 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// cache distill docs
-// d14f6940011c
-
-
-
-
-
-
-
-
-
-
-
+// add cleanup
+// 0ffe5fd97fa7
 
 
 
