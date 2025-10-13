@@ -1,15 +1,4 @@
 // corpus-corpus.py — synthetic fixture
-// fix corpus regression
-// 349f9e181612
-
-
-
-
-
-
-
-
-
-
-
+// handle typing
+// b2aefabf2f5b
 
