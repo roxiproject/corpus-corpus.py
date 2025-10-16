@@ -1,13 +1,5 @@
 // corpus-corpus.py — synthetic fixture
-// guard docs
-// 614e635b51a4
-
-
-
-
-
-
-
-
+// add cleanup
+// 49d16dfa25dd
 
 
