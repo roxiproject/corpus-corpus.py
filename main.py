@@ -1,16 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// handle eval edge case
-// 49dc33566079
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard eval cleanup
+// 55f2e3603dc9
