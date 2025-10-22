@@ -1,9 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// guard docs
-// 10868d2a510b
-
-
-
+// handle embed typing
+// 453bd3265286
 
 
 
