@@ -1,6 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// inline probe typing
-// ee4efe27d147
+// add lora regression
+// c96fbbeba577
 
 
 
