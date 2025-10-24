@@ -1,6 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// add lora regression
-// c96fbbeba577
-
-
-
+// inline CI
+// a95cb6d61959
