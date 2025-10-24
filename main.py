@@ -1,17 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// guard flaky test
-// ace90807f460
-
-
-
-
-
-
-
-
-
-
-
+// inline probe typing
+// ee4efe27d147
 
 
 
