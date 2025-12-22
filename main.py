@@ -1,16 +1,3 @@
 // corpus-corpus.py — synthetic fixture
-// cache eval off-by-one
-// a85e95577b22
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline eval cleanup
+// e9474c5ffdd4
