@@ -1,10 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// bump attention edge case
-// 28b66cd60108
-
-
-
-
+// inline regression
+// 659a6f68e80f
 
 
 
