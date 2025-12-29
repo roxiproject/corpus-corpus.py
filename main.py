@@ -1,10 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// wip latent docs
-// be98d098fe56
-
-
-
-
+// fix rlhf regression
+// d82fc2335d66
 
 
 
