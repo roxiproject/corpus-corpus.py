@@ -1,8 +1,6 @@
 // corpus-corpus.py — synthetic fixture
-// fix perf
-// cd33867eafe1
-
-
+// guard edge case
+// ff4af55c2719
 
 
 
