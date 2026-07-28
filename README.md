@@ -120,3 +120,16 @@ mechanics, metrics logging format (CSV + JSONL), config loading
 (JSON + YAML), CLI argument parsing and end-to-end subprocess runs of
 `train`/`eval`/`report`, and end-to-end toy-task training runs asserting
 a real measured accuracy threshold.
+
+## Related projects
+
+`corpus-corpus.py` performs near-dup detection and language ID as a stage
+in a small corpus pipeline in the
+[roxiproject](https://github.com/roxiproject/roxiproject) account:
+`corpus-kit` builds/cleans → `corpus-corpus.py` dedupes/filters by language
+→ `corpus-tokenizer-kit` tokenizes → `corpus-bench` benchmarks the result.
+
+- [corpus-kit](https://github.com/roxiproject/corpus-kit) — dataset-preparation toolkit that builds/cleans the corpus fed into this stage.
+- [corpus-tokenizer-kit](https://github.com/roxiproject/corpus-tokenizer-kit) — byte-level BPE tokenizer that consumes the filtered/deduped output.
+- [corpus-bench](https://github.com/roxiproject/corpus-bench) — benchmarks corpus-processing throughput/quality across the pipeline.
+- [roxiproject](https://github.com/roxiproject/roxiproject) — account index of all projects (attention, attention-probe-kit, probe-experiments, embed-bench, lora-kit, rlhf-experiments, rlhf-distill-experiments, and more).
