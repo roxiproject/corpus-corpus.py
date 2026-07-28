@@ -1,0 +1,17 @@
+{
+  "task": "xor",
+  "layer_sizes": [2, 16, 16, 2],
+  "activations": ["relu", "relu", "linear"],
+  "optimizer": "adam",
+  "lr": 0.05,
+  "batch_size": 16,
+  "epochs": 300,
+  "val_fraction": 0.2,
+  "patience": 30,
+  "warmup_steps": 10,
+  "lr_schedule": "cosine",
+  "seed": 0,
+  "checkpoint_path": "model.npz",
+  "metrics_csv": "metrics.csv",
+  "metrics_jsonl": "metrics.jsonl"
+}
